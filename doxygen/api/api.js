@@ -28,7 +28,7 @@ function xmlParser(xml) {
 		//+ '<div class="funcid"><p class="subheading">ID</p>' + $(this).attr('id') + '</div>'
 		
 		//Function
-		+ '<div class="definition"><p class="subheading">Function</p>' + $(this).find("definition").text().replace('RML_API_ENTRY ','')
+		+ '<div class="definition"><p class="subheading">Function</p>' + $(this).find("definition").text()
 		+ $(this).find("argsstring").text() + ';</div>'
 		
 		//Descriptions
