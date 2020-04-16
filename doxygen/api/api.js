@@ -14,7 +14,6 @@ $(document).ready(function () {
 });
 
 var i = 0;
-var ret;
 
 function xmlParser(xml) {
 
