@@ -1,5 +1,5 @@
 # Doctools
 
-* Show cookie consent (JavaScript)
-* Language switcher for documents (Javsacript)
+* Show cookie consent (JS)
+* Language switcher for documents (JS)
 * Doxygen XML to HTML transform
