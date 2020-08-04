@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  align-items: center;
+  justify-content: center;
+  padding-top: 10em;
+  padding-bottom: 10em;
+  background-color: #f4f4f4;
+}
+
+select.languages {
+	padding: 0.5em 0.75em;
+	font-size: 0.9em;
+}
